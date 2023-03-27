@@ -30,3 +30,5 @@ function readDatabase(path) {
     });
   });
 }
+
+export default readDatabase;
